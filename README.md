@@ -28,7 +28,7 @@ This is a **real-time weather forecasting web app** built with **Streamlit** and
 ## 🔧 Installation & Usage  
 ### 📌 **1. Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/weather-forecast-app.git
+git clone https://github.com/Ausaf-ul-Islam/Strealit_Weather_app.git
 cd weather-forecast-app
 ```
 
