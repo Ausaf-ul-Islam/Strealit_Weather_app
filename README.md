@@ -1,6 +1,6 @@
 # 🌤️ Streamlit Weather Forecast App
 
-![Weather App Screenshot](https://via.placeholder.com/1200x600?text=Weather+Forecast+App)
+![Weather App Screenshot](https://github.com/Ausaf-ul-Islam/Strealit_Weather_app/blob/main/preview_1.png)
 
 ## 🚀 Overview  
 This is a **real-time weather forecasting web app** built with **Streamlit** and **OpenWeather API**. The app provides **current weather data** and a **7-day weather forecast** for any city worldwide. It also displays **weather-based inspirational quotes** to brighten your day!  
@@ -18,10 +18,10 @@ This is a **real-time weather forecasting web app** built with **Streamlit** and
 
 ## 📸 Screenshots  
 ### 🎨 **Home Page**
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page)  
+![Home Page](https://github.com/Ausaf-ul-Islam/Strealit_Weather_app/blob/main/preview_1.png)  
 
 ### 📅 **Weekly Forecast**
-![Weekly Forecast](https://via.placeholder.com/800x400?text=Weekly+Forecast)  
+![Weekly Forecast](https://github.com/Ausaf-ul-Islam/Strealit_Weather_app/blob/main/preview_2.png)  
 
 ---
 
